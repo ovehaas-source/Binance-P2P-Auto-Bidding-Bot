@@ -10,8 +10,8 @@ Supports setting target users and price-increase values. The system automaticall
 ### Dynamic Price Adjustment
 Automatically adjusts ad prices in real time according to market fluctuations, eliminating errors and delays caused by manual operations and keeping your ads optimally competitive.
 
-### One-Click Asset Conversion
-Automatically scans multiple mainstream crypto assets in your account (BTC, ETH, BNB, SOL, DOGE, ADA, XRP) and converts them into USDT with one click, improving capital efficiency.
+### Automatic Asset Conversion
+Automatically scans multiple mainstream crypto assets in your account (BTC, ETH, BNB, SOL, DOGE, ADA, XRP) and converts them all into USDT, improving capital utilization efficiency.
 
 ### Flexible Ad Management
 Allows you to directly modify all buy and sell ad parameters within the software interface, including price, inventory, and trade limits—simple and efficient.
