@@ -1,7 +1,7 @@
 # Binance P2P Auto-Bidding Bot — Keep Your Ads One Step Ahead
 In daily P2P trading, if a competitor’s bid is 10,000, in theory you only need to bid 10,001 to surpass them. However, in real practice, manual price adjustments are neither precise nor sustainable. If you manually raise the price to 10,050, the extra 49 becomes a completely unnecessary additional cost.
 
-To solve this pain point, the [Binance P2P Auto-Bidding Bot](https://apip2p.top)was created to help you achieve precise, automated price management.
+To solve this pain point, the [Binance P2P Auto-Bidding Bot](https://apip2p.top) was created to help you achieve precise, automated price management.
 🔑 Core Features
 
 Intelligent Auto-Bidding
